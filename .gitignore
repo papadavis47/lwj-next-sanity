@@ -33,3 +33,6 @@ yarn-error.log*
 .vercel
 
 *dist/
+
+# Local Netlify folder
+.netlify
